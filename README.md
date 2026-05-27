@@ -6,7 +6,7 @@ A simple and visually appealing **Pomodoro Timer** desktop application built wit
 
 ## 📸 Preview
 
-![Pomodoro Timer Screenshot](images/preview.png)
+![Pomodoro Timer Screenshot](images/ex1.png)
 
 > A tomato-themed timer interface with start and reset controls.
 
